@@ -10,6 +10,7 @@
 - Press <kbd>ENTER</kbd> to submit input
 
 ## Bugs
+- [ ] Fox repeating prompt bug
 - [ ] Fix a/an noun problem
 
 ## Feature Requests
