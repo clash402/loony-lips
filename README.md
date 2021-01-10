@@ -1,7 +1,5 @@
 # Loony Lips
 
-![Banner](./assets/gfx/banner.svg)
-
 ## Summary
 - Based off of the demo project from [Discovering Godot: Make Video Games in Python-like GDScript](https://www.udemy.com/share/101WnM/)
 - Follow the on-screen instructions and have fun!
